@@ -95,8 +95,11 @@ The fitted GEV mixture model successfully captured the bimodal structure of the 
 ---
 
 ## Repository Contents
-- `technical_report_em_gev_mixture.pdf`  
-  Full technical report detailing methodology, simulations, results, and discussion.
+- **`technical_report_em_gev_mixture.pdf`** The full technical report detailing the mathematical methodology, simulation results, and academic discussion.
+
+- **`Source_Code_EM_GEV.Rmd`** The complete R-Markdown source code. This file is fully reproducible and contains all functions, simulation loops, and data visualization scripts.
+
+- **`Source_Code_Output.pdf`** A "knitted" version of the source code. This document displays the code side-by-side with its outputs and plots, providing a quick way to review the implementation without running R.
 
 ---
 
